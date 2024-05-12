@@ -1,9 +1,9 @@
-# bdp2-2024 - Introduction
+# bdp2 - Introduction
 This repository contains files used in the course <b>Infrastructures for Big Data Processing</b> (BDP2) at the University of Bologna, Academic Year 2023-2024, taught by Prof. Alessanro Costantini (credits Prof. Davide Salomoni).
 
 For details, see the course slides.
 
-For more information on the course, see <a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/435337">here</a>.
+For more information on the course, see <a href="https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2023/435337">here</a>.
 
 [![DOI](https://zenodo.org/badge/646546452.svg)](https://zenodo.org/badge/latestdoi/646546452)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
