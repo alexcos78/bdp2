@@ -3,7 +3,7 @@ This repository contains files used in the course <b>Infrastructures for Big Dat
 
 For details, see the course slides.
 
-For more information on the course, see <a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/435337">here</a>.
+For more information on the course, see <a href="https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2023/435337">here</a>.
 
 ## Create a directory for this module and go there
 ```
