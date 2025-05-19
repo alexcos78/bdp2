@@ -3,7 +3,7 @@ This repository contains files used in the course <b>Infrastructures for Big Dat
 
 For details, see the course slides.
 
-For more information on the course, see <a href="[https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2023/435337](https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/435337)">here</a>.
+For more information on the course, see <a href=https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/435337>here</a>.
 
 [![DOI](https://zenodo.org/badge/646546452.svg)](https://zenodo.org/badge/latestdoi/646546452)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
