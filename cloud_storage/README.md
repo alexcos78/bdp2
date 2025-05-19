@@ -1,5 +1,5 @@
 # bdp2 - Cloud Storage
-This repository contains files used in the course <b>Infrastructures for Big Data Processing</b> (BDP2) at the University of Bologna, Academic Year 2023-2024, taught by prof. Alessandro Costantini (credits Prof. Davide Salomoni).
+This repository contains files used in the course <b>Infrastructures for Big Data Processing</b> (BDP2) at the University of Bologna, Academic Year 2024-2025, taught by prof. Alessandro Costantini.
 
 For details, see the course slides.
 
@@ -22,8 +22,8 @@ sudo apt install -y wamerican
 
 (change them according to your own set up!)
 ```
-wget https://github.com/alexcos78/bdp2/raw/bdp2-2024/cloud_storage/taipei.jpg
-wget https://github.com/alexcos78/bdp2/raw/bdp2-2024/cloud_storage/one_image.py
+wget https://github.com/alexcos78/bdp2/raw/bdp2-2025/cloud_storage/taipei.jpg
+wget https://github.com/alexcos78/bdp2/raw/bdp2-2025/cloud_storage/one_image.py
 scp -i ~/.ssh/bdp2-2021.pem ubuntu@ec2-3-84-187-177.compute-1.amazonaws.com:/home/ubuntu/cloud_storage/taipei_bw.pdf .
 ```
 __Change the name and location of the PEM file as well as the name of the VM1 machine__ adapting it to your own environemnt.
