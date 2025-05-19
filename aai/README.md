@@ -1,4 +1,4 @@
-# bdp2 - AAI
+# AAI
 This repository contains files used in the course <b>Infrastructures for Big Data Processing</b> (BDP2) at the University of Bologna, Academic Year 2024-2025, taught by Prof. Alessanro Costantini.
 
 For details, see the course slides.
