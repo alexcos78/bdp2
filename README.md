@@ -5,9 +5,6 @@ For details, see the course slides.
 
 For more information on the course, see <a href=https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/435337>here</a>.
 
-[![DOI](https://zenodo.org/badge/646546452.svg)](https://zenodo.org/badge/latestdoi/646546452)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Accessing the AWS Lab
 
 Follow the instructions provided during the course to get an account and set up your Lab environment. Remember that, once you have set up your account, you should go to <a href=https://www.awsacademy.com/LMS_Login>https://www.awsacademy.com/LMS_Login</a> to log in to your AWS Lab. Select "Student Login" there.
