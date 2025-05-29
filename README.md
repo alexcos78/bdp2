@@ -5,13 +5,13 @@ For details, see the course slides.
 
 For more information on the course, see <a href=https://www.unibo.it/it/studiare/insegnamenti-competenze-trasversali-moocs/insegnamenti/insegnamento/2024/435337>here</a>.
 
-## Accessing the AWS Lab
+# Accessing the AWS Lab
 
 Follow the instructions provided during the course to get an account and set up your Lab environment. Remember that, once you have set up your account, you should go to <a href=https://www.awsacademy.com/LMS_Login>https://www.awsacademy.com/LMS_Login</a> to log in to your AWS Lab. Select "Student Login" there.
 
-## Configuration of the 2 VMs on AWS
+# Configuration of the 2 VMs on AWS
 
-### VM characteristics
+## VM characteristics
 
 - Ubuntu Server 22.04 LTS, 64-bit (x86)
 - Size: t2.medium
@@ -29,13 +29,13 @@ chmod 400 bdp2.pem
   - Use an ssh client, such as MobaXterm (look it up on the Internet to find download and usage instructions).
   - Use the Windows Powershell and the Windows Linux Subsystem (WSL). However, in this case remember to <u>move the `bdp2.pem` private key to your WSL home directory</u>. With the Windows File Explorer, you may go to `MyPC` and there you should find the WSL Linux home folder, called something like `Ubuntu`; inside that folder there will be a `home` folder, and inside that folder there will be a folder with your Windows username. That will be your WSL home directory. Once you have moved the `.pem` file there, remember to issue the `chmod` command shown above. 
 
-### Software update
+## Software update
 ```
 sudo apt update && sudo apt -y upgrade
 
 ```
 
-### Changing the Linux prompt
+## Changing the Linux prompt
 
 Put the following at the end of the `.bashrc` file:
 
@@ -47,7 +47,7 @@ The above command is for the VM called `VM1`. Do the same for `VM2`, changing VM
 
 Once done, activate the new prompt either by logging out and then back in, or simply typing `source .bashrc`
 
-### Installing additional packages on VM1
+## Installing additional packages on VM1
 
 Perform these commands on VM1:
 
@@ -58,5 +58,5 @@ sudo apt -y install python3-pip python3-matplotlib
 sudo pip install --upgrade numpy Pillow scikit-image
 
 ```
-### Aknowledgments
+# Aknowledgments
 A thanks to Prof. Davide Salomoni for the material provided and for the trust.
