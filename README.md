@@ -1,5 +1,5 @@
 # Introduction
-This repository contains files used in the course <b>Infrastructures for Big Data Processing</b> (BDP2) at the University of Bologna, Academic Year 2024-2025, taught by Prof. Alessanro Costantini.
+This repository contains files used in the course <b>Infrastructures for Big Data Processing</b> (BDP) at the University of Bologna, Academic Year 2025-2026, taught by Prof. Alessanro Costantini.
 
 For details, see the course slides.
 
@@ -19,7 +19,7 @@ Follow the instructions provided during the course to get an account and set up 
 - Storage: 30 GB volume (**not** the default 8 GB size)
 - Security group: rename it and call it "bdp2-security"
 
-Remember to generate a new key pair. Call it e.g. `bdp2`. The private key, called in this case `bdp2.pem`, should be downloaded to your laptop and its access protected from the terminal with the command 
+Remember to generate a new key pair. Call it e.g. `bdp`. The private key, called in this case `bdp.pem`, should be downloaded to your laptop and its access protected from the terminal with the command 
 
 ```
 chmod 400 bdp2.pem
